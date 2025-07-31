@@ -43,7 +43,7 @@ Tenho perfil **analítico**, **autodidata** e gosto de explorar novas soluções
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=belasoaress&show_icons=true&theme=transparent&locale=pt-br&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belasoaress&layout=compact&langs_count=6&theme=transparent&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belasoaress&layout=compact&theme=transparent&locale=pt-br"/>
 </div>
 
 <div align="center">
