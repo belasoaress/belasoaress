@@ -47,7 +47,7 @@ Tenho perfil **analítico**, **autodidata** e gosto de explorar novas soluções
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=belasoaress&theme=transparent&locale=pt-br" alt="GitHub Streak Stats"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=belasoaress&theme=transparent&locale=pt-br" alt="GitHub Streak Stats"/>
 </div>
 
 ##
