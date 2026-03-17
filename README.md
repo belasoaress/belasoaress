@@ -9,12 +9,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F81FF&width=435&lines=software+engineer)](https://git.io/typing-svg)
 
-```
-- Living in São Carlos, Brazil  
-- 20 years old   
-```
-
-
 
 
 ## 🔧 Tech Stack
